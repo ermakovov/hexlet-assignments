@@ -1,0 +1,11 @@
+first:
+  title: 'First bulletin'
+  body: 'Body of the first bulletin'
+
+second:
+  title: 'Second bulletin'
+  body: 'Body of the second bulletin'
+
+third:
+  title: 'Third bulletin (SPAM!)'
+  body: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit (SPAM!)'
